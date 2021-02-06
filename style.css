@@ -49,7 +49,7 @@ margin-top: 20%;
     width: 100%;
     overflow-y:scroll;
     max-height: 100vh;
-    scroll-snap-type: y proximity;
+    
 }
 .fh{
     display:flex;
