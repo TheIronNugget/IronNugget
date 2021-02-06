@@ -55,9 +55,8 @@ margin-top: 20%;
     display:flex;
     flex-wrap: wrap;
     flex-direction: column;
-    height: 100vh;
+    height: 110vh;
     justify-content:center;
-    scroll-snap-align: start;
     
     
     /* border-bottom: 10px solid white; */
